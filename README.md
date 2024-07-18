@@ -3,13 +3,14 @@ I'm Ned Santiago, Civil Engineer, Hydrologist, Programmer.
 
 ## 👷🏽‍♂️ Engineering & Hydrology Tools
 <div>
-    <img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
+    <img src="docs\icons\qgis_icon.svg" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
 </div>
 
 ## 👨🏽‍💻 Programming Tools & Languages
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="docs\icons\python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="docs\icons\c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="docs\icons\git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 <!--
