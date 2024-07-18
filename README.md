@@ -3,7 +3,7 @@ I'm Ned Santiago, Civil Engineer, Hydrologist, Programmer.
 
 ## 👷🏽‍♂️ Engineering & Hydrology Tools
 <div>
-    <img src="https://github.com/qgis/QGIS/blob/master/images/README-md/main_logo.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
 </div>
 
 ## 👨🏽‍💻 Programming Tools & Languages
