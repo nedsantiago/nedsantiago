@@ -1,5 +1,5 @@
-<div>
-    <img src="assets/nedsantiago-sharp-logo.svg" title="logo" alt="logo" width="80" height="80"/>&nbsp;
+<div align="center" style="margin:auto;">
+    <img src="assets/nedsantiago-sharp-logo.svg" title="logo" alt="logo" width="80" height="80"/><br>
 </div>
 ![Ned Santiago Logo](assets/nedsantiago-sharp-logo.svg)
 
