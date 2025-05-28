@@ -1,5 +1,6 @@
 # Hello!🩵
 I'm Ned Santiago, Civil Engineer, Hydrologist, Programmer.
+[![Ned's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedsantiago)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👷🏽‍♂️ Engineering & Hydrology Tools
 <div>
