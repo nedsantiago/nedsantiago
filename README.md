@@ -1,33 +1,65 @@
-# Hello!🩵
-I'm Ned Santiago, Civil Engineer, Hydrologist, Programmer.
+
 [![Ned's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedsantiago)](https://github.com/anuraghazra/github-readme-stats)
 
-## 👷🏽‍♂️ Engineering & Hydrology Tools
-<div>
-    <a href="https://en.wikipedia.org/wiki/QGIS">
-        <img src="docs\icons\qgis_icon.svg" title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
-    </a>
-    <a href="https://en.wikipedia.org/wiki/HEC-RAS">
-        <img src="docs\icons\RASDOCS.png" title="HEC-RAS" alt="HEC-RAS" width="40" height="40"/>&nbsp;
-    </a>
-    <a href="https://en.wikipedia.org/wiki/HEC-HMS">
-        <img src="docs\icons\HMSDOCS.png" title="HEC-HMS" alt="HEC-HMS" width="40" height="40"/>&nbsp;
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Storm_Water_Management_Model">
-        <img src="docs\icons\swmm-custom.svg" title="EPA-SWMM" alt="EPA-SWMM" width="40" height="40"/>&nbsp;
-    </a>
-</div>
+**About me**
 
+- 🏙️ Licensed Civil Engineer
+- ⛈  I work on Flood Control and Hydrology Projects
+- 🖥️ Passionate about Automation and Software Development
 
-## 👨🏽‍💻 Programming Tools & Languages
-<div>
-    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-        <img src="docs\icons\python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    </a>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="docs\icons\c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    </a>
-        <a href="https://en.wikipedia.org/wiki/Git">
-    <img src="docs\icons\git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-    </a>
-</div>
+**I push for scalable solutions for the Water Industry**
+
+## My Tech Stack
+
+- Front-end: Flutter Framework
+- Backend: Supabase
+
+A lean technology stack that balances power, self-sufficiency, and
+maintainability.
+
+## I host events at Meetup Philippines!
+
+- Science Symposium - I talk about Science Topics from LLM's to General Relativity
+- Hackerspace Manila - A coworking group for everyone
+
+## My Toolbox
+
+### Engineering Technologies
+
+- QGIS
+- HEC-RAS
+- HEC-HMS
+- EPA-SWMM
+- Civil3D
+- ArcGIS
+
+### Data Analysis & Engineering
+
+- Python
+- Pandas
+- Matplotlib
+- SQL
+- Postgres
+- Numpy
+
+### Cloud
+
+- AWS (mainly EC2)
+- fail2ban
+- iptables
+- nftables
+
+### Cybersecurity Tools
+
+- nmap
+- wireshark
+
+### Operating Systems
+
+- NixOS
+- Ubuntu
+
+### Other Automation Tools
+
+- LaTeX (document formatting)
+- Bash Scripts
