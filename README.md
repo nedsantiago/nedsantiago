@@ -1,7 +1,6 @@
 <div align="center" style="margin:auto;">
-    <img src="assets/nedsantiago-sharp-logo.svg" title="logo" alt="logo" width="80" height="80"/><br>
+    <img src="assets/nedsantiago-sharp-logo.svg" title="logo" alt="logo" width="240" height="240"/><br>
 </div>
-![Ned Santiago Logo](assets/nedsantiago-sharp-logo.svg)
 
 [![Ned's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedsantiago)](https://github.com/anuraghazra/github-readme-stats)
 
