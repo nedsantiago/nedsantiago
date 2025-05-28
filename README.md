@@ -12,6 +12,14 @@
 
 **I push for scalable solutions for the Water Industry**
 
+## I host events at Meetup Philippines!
+
+- Science Symposium - I talk about Science Topics from LLM's to General Relativity
+- Hackerspace Manila - A coworking group for everyone
+
+<!--
+## My Toolbox
+
 ## My Tech Stack
 
 - Front-end: Flutter Framework
@@ -19,13 +27,6 @@
 
 A lean technology stack that balances power, self-sufficiency, and
 maintainability.
-
-## I host events at Meetup Philippines!
-
-- Science Symposium - I talk about Science Topics from LLM's to General Relativity
-- Hackerspace Manila - A coworking group for everyone
-
-## My Toolbox
 
 ### Engineering Technologies
 
@@ -66,3 +67,4 @@ maintainability.
 
 - LaTeX (document formatting)
 - Bash Scripts
+-->
