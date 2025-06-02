@@ -20,19 +20,19 @@
 
 ### My Water Resource Engineering Tools
 
-[![QGIS](https://img.shields.io/badge/QGIS-green)]
-[![HEC-RAS](https://img.shields.io/badge/HEC--RAS-blue)]
-[![HEC-HMS](https://img.shields.io/badge/HEC--HMS-blue)]
-[![EPA-SWMM](https://img.shields.io/badge/EPA--SWMM-blue)]
+[![QGIS](https://img.shields.io/badge/QGIS-green)](https://qgis.org/)
+[![HEC-RAS](https://img.shields.io/badge/HEC--RAS-blue)](https://www.hec.usace.army.mil/software/hec-ras/)
+[![HEC-HMS](https://img.shields.io/badge/HEC--HMS-blue)](https://www.hec.usace.army.mil/software/hec-hms/)
+[![EPA-SWMM](https://img.shields.io/badge/EPA--SWMM-blue)](https://www.epa.gov/water-research/storm-water-management-model-swmm/)
 
 ### My Software Engineering Toolbox
 
-[![Python](https://img.shields.io/badge/Python-yellow)]
-[![SQL](https://img.shields.io/badge/SQL-orange)]
-[![AWS](https://img.shields.io/badge/AWS-red)]
-[![Bash](https://img.shields.io/badge/Bash-black)]
-[![LaTeX](https://img.shields.io/badge/LaTeX-white)]
-[![Nix](https://img.shields.io/badge/Nix-blue)]
+[![Python](https://img.shields.io/badge/Python-yellow)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-orange)](https://en.wikipedia.org/wiki/SQL)
+[![AWS](https://img.shields.io/badge/AWS-red)](https://aws.amazon.com/)
+[![Bash](https://img.shields.io/badge/Bash-black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![LaTeX](https://img.shields.io/badge/LaTeX-white)](https://www.latex-project.org/)
+[![Nix](https://img.shields.io/badge/Nix-blue)](https://nixos.org/)
 
 <!--
 ## My Toolbox
