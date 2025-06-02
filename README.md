@@ -20,13 +20,13 @@
 [![QGIS](https://img.shields.io/badge/A+-QGIS-green)](https://qgis.org/)
 [![HEC-RAS](https://img.shields.io/badge/A+-HEC--RAS-blue)](https://www.hec.usace.army.mil/software/hec-ras/)
 [![EPA-SWMM](https://img.shields.io/badge/A+-EPA--SWMM-blue)](https://www.epa.gov/water-research/storm-water-management-model-swmm/)
-[![HEC-HMS](https://img.shields.io/badge/A-- -HEC--HMS-blue)](https://www.hec.usace.army.mil/software/hec-hms/)
+[![HEC-HMS](https://img.shields.io/badge/A--_-HEC--HMS-blue)](https://www.hec.usace.army.mil/software/hec-hms/)
 
 **For Software Engineering**
 
 [![Python](https://img.shields.io/badge/A+-Python-yellow)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/A+-SQL-orange)](https://en.wikipedia.org/wiki/SQL)
-[![Bash](https://img.shields.io/badge/A-- -Bash-black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Bash](https://img.shields.io/badge/A--_-Bash-black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![AWS](https://img.shields.io/badge/B+-AWS-red)](https://aws.amazon.com/)
 [![LaTeX](https://img.shields.io/badge/B+-LaTeX-white)](https://www.latex-project.org/)
 [![Nix](https://img.shields.io/badge/B+-Nix-blue)](https://nixos.org/)
