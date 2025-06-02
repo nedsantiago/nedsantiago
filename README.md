@@ -10,12 +10,12 @@
 - ⛈  I work on Flood Control and Hydrology Projects
 - 🖥️ Passionate about Automation and Software Development
 
-**I push for scalable solutions for the Water Industry**
+**I pursue Digital Innovations for the Water Industry**
 
-## I host events at Meetup Philippines!
+## I host events for Meetup Philippines!
 
-- Science Symposium - I talk about Science Topics from LLM's to General Relativity
-- Hackerspace Manila - A coworking group for everyone
+- **Science Symposium**- I talk about Science Topics from LLM's to General Relativity.
+- **Hackerspace Manila**- A coworking group for everyone.
 
 <!--
 ## My Toolbox
