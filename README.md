@@ -1,11 +1,13 @@
 <div align="center" style="margin:auto;">
     <img src="assets/nedsantiago-sharp-logo.svg" title="logo" alt="logo" width="240" height="240"/><br>
 </div>
-<h1 align="center">Ned Santiago</h1>
 
-[![Ned's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedsantiago)](https://github.com/anuraghazra/github-readme-stats)
-
-![Ned's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nedsantiago"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&rank_icon=percentile"/>
+</a>
 
 **About me**
 
