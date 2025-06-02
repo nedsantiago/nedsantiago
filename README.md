@@ -9,15 +9,14 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&layout=compact&langs_count=8&card_width=320"/>
 </a>
 
-**About me**
+## I am a
 
 - 🏙️ Licensed Civil Engineer
-- ⛈  I work on Flood Control and Hydrology Projects
+- ⛈  Worked on Flood Control and Hydrology Projects
 - 🖥️ Passionate about Automation and Software Development
+- **I pursue Digital Innovations for the Water Industry**
 
-**I pursue Digital Innovations for the Water Industry**
-
-## My Toolbox
+### My Toolbox
 
 **For Water Resources Engineering**
 
@@ -37,8 +36,8 @@
 
 ## I host events for Meetup Philippines!
 
-- **Science Symposium**- I talk about Science Topics from LLM's to General Relativity.
-- **Hackerspace Manila**- A coworking group for everyone.
+- [![Science Symposium](https://img.shields.io/badge/Science_Symposium-blue)]- I talk about Science Topics from LLM's to General Relativity.
+- [![Hackerspace Manila](https://img.shields.io/badge/Hackerspace_MNL-green)]- A coworking group for everyone.
 
 
 <!--
