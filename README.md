@@ -13,19 +13,16 @@
 
 **I pursue Digital Innovations for the Water Industry**
 
-## I host events for Meetup Philippines!
+## My Toolbox
 
-- **Science Symposium**- I talk about Science Topics from LLM's to General Relativity.
-- **Hackerspace Manila**- A coworking group for everyone.
-
-### My Water Resource Engineering Tools
+**For Water Resources Engineering**
 
 [![QGIS](https://img.shields.io/badge/QGIS-green)](https://qgis.org/)
 [![HEC-RAS](https://img.shields.io/badge/HEC--RAS-blue)](https://www.hec.usace.army.mil/software/hec-ras/)
 [![HEC-HMS](https://img.shields.io/badge/HEC--HMS-blue)](https://www.hec.usace.army.mil/software/hec-hms/)
 [![EPA-SWMM](https://img.shields.io/badge/EPA--SWMM-blue)](https://www.epa.gov/water-research/storm-water-management-model-swmm/)
 
-### My Software Engineering Toolbox
+**For Software Engineering**
 
 [![Python](https://img.shields.io/badge/Python-yellow)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-orange)](https://en.wikipedia.org/wiki/SQL)
@@ -33,6 +30,12 @@
 [![Bash](https://img.shields.io/badge/Bash-black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![LaTeX](https://img.shields.io/badge/LaTeX-white)](https://www.latex-project.org/)
 [![Nix](https://img.shields.io/badge/Nix-blue)](https://nixos.org/)
+
+## I host events for Meetup Philippines!
+
+- **Science Symposium**- I talk about Science Topics from LLM's to General Relativity.
+- **Hackerspace Manila**- A coworking group for everyone.
+
 
 <!--
 ## My Toolbox
