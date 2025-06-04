@@ -2,7 +2,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/nedsantiago-sharp-logo-dark-mode.svg">
         <source media="(prefers-color-scheme: light)" srcset="assets/nedsantiago-sharp-logo-light-mode.svg">
-        <img alt="Logo" src="docs/qgis_icon.svg">
+        <img src="docs/qgis_icon.svg" alt="logo" title="logo" width="240" height="240"/><br>
     </picture>
 </div>
 
