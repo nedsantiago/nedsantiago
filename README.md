@@ -1,9 +1,10 @@
-<div align="center" style="margin:auto;">
+<p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nedsantiago/nedsantiago/refs/heads/main/assets/nedsantiago-sharp-logo-dark-mode.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nedsantiago/nedsantiago/refs/heads/main/assets/nedsantiago-sharp-logo-light-mode.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/nedsantiago-sharp-logo-dark-mode.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/nedsantiago-sharp-logo-light-mode.svg">
+        <img alt="Logo" src="docs/qgis_icon.svg">
     </picture>
-</div>
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nedsantiago&rank_icon=github"/>
