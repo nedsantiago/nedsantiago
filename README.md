@@ -40,6 +40,7 @@
 ## I host events for Meetup Philippines!
 
 [![Science Symposium](https://img.shields.io/badge/Science_Symposium-blue)](https://www.meetup.com/meetup-philippines/) I talk about Science Topics from LLM's to General Relativity.
+
 [![Hackerspace Manila](https://img.shields.io/badge/Hackerspace_MNL-green)](https://www.meetup.com/meetup-philippines/) A coworking group for everyone.
 
 
