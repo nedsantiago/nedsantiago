@@ -1,7 +1,7 @@
 <div align="center" style="margin:auto;">
     <picture>
-        <source media="(prefers-color-schema: dark)" srcset="https://raw.githubusercontent.com/nedsantiago/nedsantiago/refs/heads/main/assets/nedsantiago-sharp-logo-dark-mode.svg">
-        <source media="(prefers-color-schema: light)" srcset="https://raw.githubusercontent.com/nedsantiago/nedsantiago/refs/heads/main/assets/nedsantiago-sharp-logo-light-mode.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nedsantiago/nedsantiago/refs/heads/main/assets/nedsantiago-sharp-logo-dark-mode.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nedsantiago/nedsantiago/refs/heads/main/assets/nedsantiago-sharp-logo-light-mode.svg">
     </picture>
 </div>
 
