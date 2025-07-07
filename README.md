@@ -16,7 +16,7 @@
 ## I..
 
 - 🏙️ am a licensed Civil Engineer
--  have worked on Flood Control and Hydrology Projects
+- 🌧️ have worked on Flood Control and Hydrology Projects
 - 🖥️ am passionate about Automation and Software Development
 - **pursue Digital Innovations for the Water Industry**
 
