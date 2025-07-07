@@ -13,12 +13,12 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&layout=compact&langs_count=8&card_width=320"/>
 </a>
 
-## I am a
+## I..
 
-- 🏙️ Licensed Civil Engineer
-- ⛈  Worked on Flood Control and Hydrology Projects
-- 🖥️ Passionate about Automation and Software Development
-- **I pursue Digital Innovations for the Water Industry**
+- 🏙️ am a licensed Civil Engineer
+-  have worked on Flood Control and Hydrology Projects
+- 🖥️ am passionate about Automation and Software Development
+- **pursue Digital Innovations for the Water Industry**
 
 ### My Toolbox
 
@@ -32,9 +32,10 @@
 **For Software Engineering**
 
 [![Python](https://img.shields.io/badge/A+-Python-yellow)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/A+-SQL-orange)](https://en.wikipedia.org/wiki/SQL)
+[![SQL](https://img.shields.io/badge/A+-SQL-5C97C4)](https://en.wikipedia.org/wiki/SQL)
 [![Bash](https://img.shields.io/badge/A--_-Bash-black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[![AWS](https://img.shields.io/badge/B+-AWS-red)](https://aws.amazon.com/)
+[![Rust](https://img.shields.io/badge/B+-Rust-red)](https://www.rust-lang.org/)
+[![AWS](https://img.shields.io/badge/B+-AWS-orange)](https://aws.amazon.com/)
 [![LaTeX](https://img.shields.io/badge/B+-LaTeX-white)](https://www.latex-project.org/)
 [![Nix](https://img.shields.io/badge/B+-Nix-blue)](https://nixos.org/)
 
@@ -73,6 +74,7 @@ maintainability.
 - SQL
 - Postgres
 - Numpy
+- Rust
 
 ### Cloud
 
