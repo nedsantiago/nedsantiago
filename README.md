@@ -7,29 +7,23 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nedsantiago&rank_icon=github&card_width=320"/>
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=nedsantiago&rank_icon=github&card_width=320"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&layout=compact&langs_count=8&card_width=320"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&layout=compact&langs_count=6&card_width=355"/>
 </a>
 
-## I..
+## I am a
 
-- 🏙️ am a licensed Civil Engineer
-- 🌧️ have worked on Flood Control and Hydrology Projects
-- 🖥️ am passionate about Automation and Software Development
-- **pursue Digital Innovations for the Water Industry**
-
-### My Toolbox
-
-**For Water Resources Engineering**
+- 🏙️ Licensed Civil Engineer
+- 🌧️ Hydrologist who worked on Flood Control Projects
+- 🖥️ Programmer, passionate about Automation and Software Development
+- Professional pursuing **Digital Transformation in the Water Industry**
 
 [![QGIS](https://img.shields.io/badge/A+-QGIS-green)](https://qgis.org/)
 [![HEC-RAS](https://img.shields.io/badge/A+-HEC--RAS-blue)](https://www.hec.usace.army.mil/software/hec-ras/)
 [![EPA-SWMM](https://img.shields.io/badge/A+-EPA--SWMM-blue)](https://www.epa.gov/water-research/storm-water-management-model-swmm/)
 [![HEC-HMS](https://img.shields.io/badge/A--_-HEC--HMS-blue)](https://www.hec.usace.army.mil/software/hec-hms/)
-
-**For Software Engineering**
 
 [![Python](https://img.shields.io/badge/A+-Python-yellow)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/A+-SQL-5C97C4)](https://en.wikipedia.org/wiki/SQL)
@@ -45,17 +39,14 @@
 
 [![Hackerspace Manila](https://img.shields.io/badge/Hackerspace_MNL-green)](https://www.meetup.com/meetup-philippines/) A coworking group for everyone.
 
+ 
+<details>
+    <summary>My Toolbox</summary>
 
-<!--
-## My Toolbox
-
-## My Tech Stack
+### Web Development Tech Stack
 
 - Front-end: Flutter Framework
 - Backend: Supabase
-
-A lean technology stack that balances power, self-sufficiency, and
-maintainability.
 
 ### Engineering Technologies
 
@@ -75,6 +66,7 @@ maintainability.
 - Postgres
 - Numpy
 - Rust
+- C
 
 ### Cloud
 
@@ -97,4 +89,4 @@ maintainability.
 
 - LaTeX (document formatting)
 - Bash Scripts
--->
+</details>
