@@ -7,34 +7,29 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nedsantiago&rank_icon=github"/>
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=nedsantiago&rank_icon=github&card_width=320"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&layout=compact&langs_count=8&card_width=320"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&layout=compact&langs_count=6&card_width=355"/>
 </a>
 
 ## I am a
 
 - 🏙️ Licensed Civil Engineer
-- ⛈  Worked on Flood Control and Hydrology Projects
-- 🖥️ Passionate about Automation and Software Development
-- **I pursue Digital Innovations for the Water Industry**
-
-### My Toolbox
-
-**For Water Resources Engineering**
+- 🌧️ Hydrologist who worked on Flood Control Projects
+- 🖥️ Programmer, passionate about Automation and Software Development
+- Professional pursuing **Digital Transformation in the Water Industry**
 
 [![QGIS](https://img.shields.io/badge/A+-QGIS-green)](https://qgis.org/)
 [![HEC-RAS](https://img.shields.io/badge/A+-HEC--RAS-blue)](https://www.hec.usace.army.mil/software/hec-ras/)
 [![EPA-SWMM](https://img.shields.io/badge/A+-EPA--SWMM-blue)](https://www.epa.gov/water-research/storm-water-management-model-swmm/)
 [![HEC-HMS](https://img.shields.io/badge/A--_-HEC--HMS-blue)](https://www.hec.usace.army.mil/software/hec-hms/)
 
-**For Software Engineering**
-
 [![Python](https://img.shields.io/badge/A+-Python-yellow)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/A+-SQL-orange)](https://en.wikipedia.org/wiki/SQL)
+[![SQL](https://img.shields.io/badge/A+-SQL-5C97C4)](https://en.wikipedia.org/wiki/SQL)
 [![Bash](https://img.shields.io/badge/A--_-Bash-black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[![AWS](https://img.shields.io/badge/B+-AWS-red)](https://aws.amazon.com/)
+[![Rust](https://img.shields.io/badge/B+-Rust-red)](https://www.rust-lang.org/)
+[![AWS](https://img.shields.io/badge/B+-AWS-orange)](https://aws.amazon.com/)
 [![LaTeX](https://img.shields.io/badge/B+-LaTeX-white)](https://www.latex-project.org/)
 [![Nix](https://img.shields.io/badge/B+-Nix-blue)](https://nixos.org/)
 
@@ -44,17 +39,14 @@
 
 [![Hackerspace Manila](https://img.shields.io/badge/Hackerspace_MNL-green)](https://www.meetup.com/meetup-philippines/) A coworking group for everyone.
 
+ 
+<details>
+    <summary>My Toolbox</summary>
 
-<!--
-## My Toolbox
-
-## My Tech Stack
+### Web Development Tech Stack
 
 - Front-end: Flutter Framework
 - Backend: Supabase
-
-A lean technology stack that balances power, self-sufficiency, and
-maintainability.
 
 ### Engineering Technologies
 
@@ -73,6 +65,8 @@ maintainability.
 - SQL
 - Postgres
 - Numpy
+- Rust
+- C
 
 ### Cloud
 
@@ -95,4 +89,4 @@ maintainability.
 
 - LaTeX (document formatting)
 - Bash Scripts
--->
+</details>
