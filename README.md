@@ -41,11 +41,11 @@
 
  
 <details>
-    <summary>My Toolbox</summary>
+    <summary>🧰 Toolbox</summary>
 
 ### Web Development Tech Stack
 
-- Front-end: Flutter Framework
+- Front-end: Flutter
 - Backend: Supabase
 
 ### Engineering Technologies
@@ -57,16 +57,21 @@
 - Civil3D
 - ArcGIS
 
-### Data Analysis & Engineering
-
+### Programming Languages
 - Python
+- SQL
+- Rust
+- Dart
+- Javascript
+- C
+
+### Data Analysis & Engineering Tools
+
 - Pandas
 - Matplotlib
-- SQL
 - Postgres
 - Numpy
-- Rust
-- C
+- SciPy
 
 ### Cloud
 
