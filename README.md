@@ -15,7 +15,7 @@
 
 ## I am a
 
-- 🏙️ Licensed Civil Engineer
+- 🏗️ Licensed Civil Engineer
 - 🌧️ Hydrologist who worked on Flood Control Projects
 - 🖥️ Programmer, passionate about Automation and Software Development
 - Professional pursuing **Digital Transformation in the Water Industry**
