@@ -72,6 +72,8 @@
 - Postgres
 - Numpy
 - SciPy
+- Scrapy
+- BeautifulSoup
 
 ### Cloud
 
