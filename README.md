@@ -15,7 +15,7 @@
 
 ## I am a
 
-- 🏙️ Licensed Civil Engineer
+- 🏗️ Licensed Civil Engineer
 - 🌧️ Hydrologist who worked on Flood Control Projects
 - 🖥️ Programmer, passionate about Automation and Software Development
 - Professional pursuing **Digital Transformation in the Water Industry**
@@ -41,11 +41,27 @@
 
  
 <details>
-    <summary>My Toolbox</summary>
+    <summary>Open me! 🧰</summary>
+
+## Toolbox
+
+### Core Tools
+
+**Python** - My core scripting and automation programming language. With a wide range of modules, Python can do almost anything.
+
+**SQL** - Query, build, and analyze databases with this industry-standard language.
+
+**AWS EC2** - The largest cloud computing platform in the world for truly scalable computation. Run anything with the best hardware.
+
+**Flutter** - A cross-platform front-end framework using the Dart programming language. Make an app on any platform with a single code base, includes Windows, Linux, iOS, Android, and even a web browser.
+
+**Supabase** - A modern backend service that comes with everything you need from databases to security. Combined with Flutter, I can build a full-stack applications. I can even run it on a web server.
+
+**Rust** - Fast, safe, and scalable. Rust is a modern programming language that makes memory-related security problems impossible. It's also *extremely* fast, perfect for accelerating computation and algorithms when needed.
 
 ### Web Development Tech Stack
 
-- Front-end: Flutter Framework
+- Front-end: Flutter
 - Backend: Supabase
 
 ### Engineering Technologies
@@ -57,16 +73,23 @@
 - Civil3D
 - ArcGIS
 
-### Data Analysis & Engineering
-
+### Programming Languages
 - Python
+- SQL
+- Rust
+- Dart
+- Javascript
+- C
+
+### Data Analysis & Engineering Tools
+
 - Pandas
 - Matplotlib
-- SQL
 - Postgres
 - Numpy
-- Rust
-- C
+- SciPy
+- Scrapy
+- BeautifulSoup
 
 ### Cloud
 
