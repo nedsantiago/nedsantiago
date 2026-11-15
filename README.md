@@ -6,11 +6,11 @@
     </picture>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=nedsantiago&rank_icon=github&card_width=320"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+    <img height=165 align="center" src="https://github-stats-extended.vercel.app/api?username=nedsantiago&rank_icon=github&card_width=320"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsantiago&layout=compact&langs_count=6&card_width=355"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+    <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nedsantiago&layout=compact&langs_count=6&card_width=355"/>
 </a>
 
 ## I am a
